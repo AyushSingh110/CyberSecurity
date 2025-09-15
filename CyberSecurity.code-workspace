@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "CyberSecurity",
+			"path": "."
+		},
+		{
+			"name": "Network_Data",
+			"path": "../networksecurity/Network_Data"
+		}
+	],
+	"settings": {}
+}
